@@ -14,7 +14,7 @@ function App() {
 
   let random = [{
     id: 1,
-    description: "Di si por favor",
+    description: "Seguraaa?",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
@@ -30,7 +30,7 @@ function App() {
   },
   {
     id: 3,
-    description: "No tengas miedo, será genial.",
+    description: "Ya deja de decir que no.",
     img: "https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif"
   },
   {
